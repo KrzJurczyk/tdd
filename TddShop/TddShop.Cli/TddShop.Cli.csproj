@@ -61,6 +61,8 @@
     <Compile Include="Account\UsernameValidator.cs" />
     <Compile Include="Shipment\AncientRomeShippingService.cs" />
     <Compile Include="Shipment\IDeliveryService.cs" />
+    <Compile Include="Shipment\INumberConverter.cs" />
+    <Compile Include="Shipment\ConverterNumberToRomeSymbols.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

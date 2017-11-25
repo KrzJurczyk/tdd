@@ -66,6 +66,7 @@
     <Compile Include="ProgramTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shipment\AncientRomeShippingServiceTests.cs" />
+    <Compile Include="Shipment\ConverterNumberToRomeSymbolsTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
